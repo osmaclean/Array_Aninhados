@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    font-family: 'Bebas Neue', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    display: flex;
+    font-size: 50px;
+    align-items: center;
+    border: solid rgb(255, 255, 255);
+    padding: 10px 10px 10px 10px;
+    width: 280px;
+    margin: auto;
+    margin-top: 200px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+}
