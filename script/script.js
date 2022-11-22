@@ -69,3 +69,6 @@ function caixaMaior(caixaDeSuprimentos) {
 caixaMaior(caixaDeSuprimentos);
 
 
+alert(`Page made by: Lucas Maclean.`);
+alert(`Projeto consiste em usar os conhecimentos sobre: Array Aninhados, Condições e Lógica de Programação`);
+alert(`Tudo dentro do "Console"!`);
